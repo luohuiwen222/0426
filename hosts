@@ -1,0 +1,10 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+10.20.1.50 controller
+10.20.1.50 network
+10.20.1.70 compute
+10.20.1.80 storage
+
+192.168.0.20 www.yum.com
+192.168.0.20 v1.luo.com v2.luo.com
